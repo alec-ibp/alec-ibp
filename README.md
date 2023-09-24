@@ -4,8 +4,8 @@ I'm Alejandro Ibarra, a passionate Backend Software Engineer from Colombia. Welc
 
 ## About Me
 
-- 🌱 I'm currently learning Software Architectures, AI projects and tools and Golang as another language programming.
-- 💼 I work as a Backend Developer.
+- 🌱 I'm Software Engineer (Backend Developer) currently learning about Software Architecture/Design, AI projects and tools and Golang as another programming language.
+- 💼 I work as a Backend Developer with Python mainly.
 - 📫 You can reach me at alejandroibarracp@gmail.com / alejo1ibarra@gmail.com .
 
 ## Tech Stack
