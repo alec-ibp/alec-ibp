@@ -20,14 +20,6 @@ Here are some of the technologies and tools I frequently work with:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=alec-ibp&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true)
 
-## Top Projects
-
-Here are some of my top projects:
-
-1. [Project 1](Link to Project 1) - Brief description of the project.
-2. [Project 2](Link to Project 2) - Brief description of the project.
-3. [Project 3](Link to Project 3) - Brief description of the project.
-
 ## Let's Connect
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me on:
